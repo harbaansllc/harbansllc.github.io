@@ -18,3 +18,11 @@ The website provides an overview of the business services provided by Harbaans L
 - CSS (optional, if used)
 
 ## 📂 Project Structure
+## 📌 How to View
+
+1. Download or clone this repository.
+2. Open `index.html` in any web browser.
+
+## 📞 Contact
+
+For more information, please reach out to Harbaans LLC.
